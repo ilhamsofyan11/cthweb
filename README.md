@@ -41,7 +41,7 @@
 
 
 ## Commit ( Menyimpan perubahan ke database)
-    1. untuk menyimpan perubahan kedalam data repository local,gunakan perintah git commit -m " Komentar commit”
+1. untuk menyimpan perubahan kedalam data repository local,gunakan perintah git commit -m " Komentar commit”
     
 	![](img/4.png)
 
