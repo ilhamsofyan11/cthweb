@@ -14,6 +14,8 @@
         
      
 	git config --global user.email "email_anda"
+	
+
 	![](img/2.png)
 	
 	
@@ -21,7 +23,7 @@
 1. Buka direktory aktif misal " D:/Labs1 " buka menggunakan Windows Explorer
 2. Klik kanan pada direktory aktif tersebut , dan pilih menu " Git Bash " , sehingga muncul git bash command
 
-![](img/3.png)
+	![](img/3.png)
 
 
 
